@@ -72,4 +72,3 @@ To run these projects locally, follow these steps:
 - PyAutoGUI
 
 ---
-*Created with ❤️ by [Your Name]*
