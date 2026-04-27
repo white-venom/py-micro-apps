@@ -1,0 +1,7 @@
+pygame
+opencv-python
+customtkinter
+pyautogui
+keyboard
+asyncio
+pygbag
