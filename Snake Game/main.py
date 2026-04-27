@@ -21,7 +21,7 @@ snakegreen = (35, 45, 40)
 
 # Game Backgrounds
 bg2 = pygame.image.load("Screen/bg2.jpg")
-intro = pygame.image.load("Screen/intro1.png")
+intro = pygame.image.load("Screen/Intro1.png")
 outro = pygame.image.load("Screen/outro.png")
 
 # Creating The window
@@ -30,7 +30,7 @@ screen_height = 600
 gameWindow = pygame.display.set_mode((screen_width, screen_height))
 
 # Game Title
-pygame.display.set_caption("Snake game")
+pygame.display.set_caption("Snake Game by white-venom")
 pygame.display.update()
 
 # Music
