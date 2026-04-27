@@ -34,12 +34,12 @@ pygame.display.set_caption("Snake Game by white-venom")
 pygame.display.update()
 
 # Music
-try:
-    pygame.mixer.music.load('Music/wc.mp3')
-    pygame.mixer.music.play(-1)
-    pygame.mixer.music.set_volume(.6)
-except:
-    print("Music files not found, skipping music.")
+# try:
+#     pygame.mixer.music.load('Music/wc.mp3')
+#     pygame.mixer.music.play(-1)
+#     pygame.mixer.music.set_volume(.6)
+# except:
+#     print("Music files not found, skipping music.")
 
 # Variables For The Game
 clock = pygame.time.Clock()
