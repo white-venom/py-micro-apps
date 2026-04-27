@@ -6,10 +6,10 @@ Welcome to my collection of Python projects! This repository contains a variety 
 
 | Project | Description | Live Demo |
 | :--- | :--- | :--- |
-| **🎮 Snake Game** | A classic arcade game built with Pygame. Features music and high scores. | [Play Online](https://yourusername.github.io/mini-python-projects/Snake%20Game/index.html) |
-| **🐦 Flappy Bird** | A fun implementation of the famous Flappy Bird game using Pygame. | [Play Online](https://yourusername.github.io/mini-python-projects/Flappy%20Bird%20Game/index.html) |
-| **👤 Face Recognition** | Real-time and image-based face detection using OpenCV. | [View Demo](https://streamlit.io/...) |
-| **⌨️ TYPEX PRO** | A professional tactical typing engine with multiple modes. | [GitHub Folder](./Typex-autotyper) |
+| **🎮 Snake Game** | A classic arcade game built with Pygame. Features music and high scores. | [Play Online](https://white-venom.github.io/py-micro-apps/Snake%20Game/build/web/index.html) |
+| **🐦 Flappy Bird** | A fun implementation of the famous Flappy Bird game using Pygame. | [Play Online](https://white-venom.github.io/py-micro-apps/Flappy%20Bird%20Game/build/web/index.html) |
+| **👤 Face Recognition** | Real-time and image-based face detection using OpenCV. | [Folder](./Face%20Recognition) |
+| **⌨️ TYPEX PRO** | A professional tactical typing engine with multiple modes. | [Folder](./Typex-autotyper) |
 
 ---
 
